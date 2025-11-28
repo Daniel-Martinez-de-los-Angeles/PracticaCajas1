@@ -1,0 +1,15 @@
+
+
+*{
+    box-sizing: border-box;
+}
+
+div {
+    width: 100px;
+    border: solid red 1px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+
+       
